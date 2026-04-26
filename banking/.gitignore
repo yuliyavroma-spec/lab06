@@ -1,0 +1,10 @@
+build/
+*.o
+*.so
+*.a
+*.exe
+*.out
+coverage.info
+*.gcda
+*.gcno
+*.gcov
