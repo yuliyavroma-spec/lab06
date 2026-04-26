@@ -1,5 +1,4 @@
-
- name: CI
+name: CI
 
 on:
   push:
@@ -27,4 +26,3 @@ jobs:
         cd build
         ctest --output-on-failure
         ./check
-
