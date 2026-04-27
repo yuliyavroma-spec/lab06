@@ -1,0 +1,8 @@
+build/
+_build/
+artifacts/
+*.tar.gz
+*.deb
+*.rpm
+*.dmg
+*.msi
